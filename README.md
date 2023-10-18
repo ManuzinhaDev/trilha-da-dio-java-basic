@@ -1,2 +1,2 @@
-# trilha-da-dio-java-basic
+# Repositrio de exercicios da DIO
 Repositório para testes ou exercícios
